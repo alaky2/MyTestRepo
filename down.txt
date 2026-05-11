@@ -1,1 +1,1 @@
-CMD:ping2
+CMD:test123
