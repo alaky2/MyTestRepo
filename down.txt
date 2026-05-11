@@ -1,1 +1,1 @@
-CMD:ping1
+CMD:ping2
