@@ -1,1 +1,1 @@
-MSG:hello1
+CMD:ping1
